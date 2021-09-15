@@ -1,3 +1,3 @@
-# ESRA_0x0E030206
+# ESRASpartan6_v1022
 
 Altium FPGA robotic arm software
